@@ -1,7 +1,3 @@
-[integer]
-# Performance related
-fun:read_bool
-fun:vpx_read
-fun:vp8_build_intra_predictors_mby_s
-fun:vp8dx_decode_bool
-fun:vp9_predict_intra_block
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfc0f5601441ce64be015b3bd221069333c625743883c4cd69b10a37f0923097
+size 146

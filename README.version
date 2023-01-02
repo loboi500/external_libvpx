@@ -1,14 +1,3 @@
-URL: https://chromium.googlesource.com/webm/libvpx/+archive/v1.8.2.tar.gz
-Version: v1.8.2
-BugComponent: 42195
-Owners: johannkoenig
-Local Modifications:
-  652beb6ac trivial: fix spelling errors
-  0f3fe088f vp8_decode: add missing vpx_clear_system_state
-  9cfcac1cb vp8,GetSigned: silence unsigned int overflow warning
-  c713f8461 move common attribute defs to compiler_attributes.h
-  223645aa8 vpx_codec_enc_config_default: rm unnecessary loop
-  5e065cf9d vp8/{ratectrl,onyx_if}: fix some signed integer overflows
-  5eab093a7 vp9_ratectrl: fix some signed integer overflows
-  baefbe85d Cap target bitrate to raw rate internally
-  5f345a924 Avoid overflow in calc_iframe_target_size
+version https://git-lfs.github.com/spec/v1
+oid sha256:fef6013c305369ea1244dc0f78b035625b3659949dac78f536b1acf09ab99a71
+size 681
